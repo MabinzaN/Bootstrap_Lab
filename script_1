@@ -1,1 +1,17 @@
 
+<div class="container">
+<div class="row">
+  <div class=" col-md-2">Space A</div>  
+  <div class=" col-md-2">Space B</div>
+  <div class=" col-md-2">Space C</div> 
+  <div class=" col-md-2">Space D</div> 
+  <div class=" col-md-2">Space E</div> 
+  <div class=" col-md-2">Space F</div> 
+</div> <div class="row">
+  <div class=" col-md-2">Space 1</div>  
+  <div class=" col-md-2">Space 2</div>
+  <div class=" col-md-2">Space 3</div> 
+  <div class=" col-md-2">Space 4</div> 
+  <div class=" col-md-2">Space 5</div> 
+  <div class=" col-md-2">Space 6</div> 
+</div>
